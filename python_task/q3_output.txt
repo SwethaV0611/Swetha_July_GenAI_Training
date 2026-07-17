@@ -1,0 +1,22 @@
+PS C:\Users\sweth\AppData\Local\Programs\Microsoft VS Code> & C:\Users\sweth\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/sweth/q3_shopping_cart.py
+
+Part A - Bug Demonstration
+['apple']
+['apple', 'banana']
+['bread', 'milk']
+['apple', 'banana', 'eggs']
+
+Part B - Correct Function
+['apple']
+['banana']
+
+Customer 1 Cart
+{'owner': 'Swetha', 'items': [{'name': 'Laptop', 'price': 50000, 'qty': 1}, {'name': 'Mouse', 'price': 700, 'qty': 2}], 'discount': 10}
+
+Customer 2 Cart
+{'owner': 'Harini', 'items': [{'name': 'Mobile', 'price': 25000, 'qty': 1}, {'name': 'Headphones', 'price': 1500, 'qty': 1}], 'discount': 5}
+
+Total for Customer 1: 46260.0
+Total for Customer 2: 25175.0
+
+TypeError: Tuples are immutable and cannot be modified.

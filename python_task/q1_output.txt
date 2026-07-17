@@ -1,0 +1,20 @@
+PS C:\Users\sweth\AppData\Local\Programs\Microsoft VS Code> & C:\Users\sweth\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/sweth/q1_result_analyzer.py
+
+INPUT:
+
+Enter student name: "Aarav"
+Enter roll number: 101
+Enter marks for 5 subjects:
+Subject 1: 88.5
+Subject 2: 35.0
+Subject 3: 76.0
+Subject 4: 92.5
+Subject 5: 48.0
+
+OUTPUT:
+
+Student: "Aarav" (Roll: 101 )
+Total: 340.0
+Average: 68.0
+Grade: C
+Subjects below 40: Subject 2 

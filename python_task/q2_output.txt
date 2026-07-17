@@ -1,0 +1,22 @@
+PS C:\Users\sweth\AppData\Local\Programs\Microsoft VS Code> & C:\Users\sweth\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/sweth/q2_library_system.py
+
+Registered Members: {1, 2, 3}
+Book ID 101 borrowed successfully.
+Book ID 103 borrowed successfully.
+Book ID 101 returned successfully.
+
+Available Books:
+Book ID: 101
+Title   : Python Basics
+Author  : John Smith
+Year    : 2020
+
+Book ID: 102
+Title   : Data Structures
+Author  : Alice Brown
+Year    : 2021
+
+Book ID: 104
+Title   : Artificial Intelligence
+Author  : James Wilson
+Year    : 2023
